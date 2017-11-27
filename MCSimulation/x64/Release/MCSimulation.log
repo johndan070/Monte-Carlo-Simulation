@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  MCSimulation.cpp
+MCSimulation.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+MCSimulation.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+MCSimulation.cpp(86): warning C4018: '<': signed/unsigned mismatch
+MCSimulation.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MCSimulation.vcxproj -> C:\Users\VeikkaKyllönen\source\repos\MCSimulation\x64\Release\MCSimulation.exe
